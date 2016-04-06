@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "884E442RN2.im.vector.app",
+                "paths": [ "/app/*", "/beta/*", "/develop/*", "/staging/*" ]
+            }
+        ]
+    }
+}
