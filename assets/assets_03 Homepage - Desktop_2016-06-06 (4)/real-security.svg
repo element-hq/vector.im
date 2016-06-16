@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="190px" height="190px" viewBox="0 0 190 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: sketchtool 3.4.4 (395) - http://www.bohemiancoding.com/sketch -->
+    <title>Real security</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="01-Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="03-Homepage---Desktop" sketch:type="MSArtboardGroup" transform="translate(-420.000000, -1384.000000)">
+            <g id="Real-security" sketch:type="MSLayerGroup" transform="translate(425.000000, 1389.000000)">
+                <g id="Illustrations" sketch:type="MSShapeGroup">
+                    <g>
+                        <g id="Real-security">
+                            <circle id="circle-copy" fill="#BD79CB" cx="90" cy="90" r="90"></circle>
+                            <g id="Ring" transform="translate(5.000000, 5.000000)">
+                                <circle id="path-1" cx="85" cy="85" r="85"></circle>
+                                <g id="path-1-link" stroke="#EBEBEB" stroke-width="20">
+                                    <circle id="path-1" cx="85" cy="85" r="85"></circle>
+                                </g>
+                            </g>
+                            <g id="Padlock" transform="translate(52.000000, 41.000000)">
+                                <rect id="Rectangle-154-Copy" fill-opacity="0.25" fill="#000000" x="0" y="88" width="76" height="10" rx="3"></rect>
+                                <rect id="Rectangle-154" fill="#FFFFFF" x="0" y="84" width="76" height="10" rx="3"></rect>
+                                <rect id="Rectangle-155-Copy" stroke-opacity="0.25" stroke="#000000" stroke-width="4" x="17" y="6" width="44" height="66" rx="32"></rect>
+                                <rect id="Rectangle-155" stroke="#FFFFFF" stroke-width="8" x="17" y="0" width="44" height="58" rx="32"></rect>
+                                <rect id="Rectangle-152" fill="#ECECEC" x="0" y="36" width="38" height="54"></rect>
+                                <rect id="Rectangle-152-Copy" fill="#D8D8D8" x="38" y="36" width="38" height="54"></rect>
+                                <path d="M48,57 C48,51.4771525 43.5228475,47 38,47 C32.4771525,47 28,51.4771525 28,57 C28,60.7014118 30.0109931,63.9331309 33,65.662178 L33,73.0023284 C33,75.7607516 35.2385763,78 38,78 C40.7558048,78 43,75.7624662 43,73.0023284 L43,65.662178 C45.9890069,63.9331309 48,60.7014118 48,57 L48,57 Z" id="Oval-99" fill="#595959"></path>
+                                <path d="M48,57 C48,51.4771525 43.5228475,47 38,47 C32.4771525,47 28,51.4771525 28,57 C31.6625977,49 44.2880859,49 48,57 L48,57 Z" id="Oval-99-Copy" fill-opacity="0.25" fill="#000000"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

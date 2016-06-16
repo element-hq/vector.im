@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="258px" height="258px" viewBox="0 0 258 258" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: sketchtool 3.4.4 (395) - http://www.bohemiancoding.com/sketch -->
+    <title>Interoperability@2x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <circle id="path-1" cx="125" cy="125" r="125"></circle>
+        <circle id="path-3" cx="125" cy="125" r="125"></circle>
+        <circle id="path-5" cx="125" cy="125" r="125"></circle>
+        <circle id="path-7" cx="125" cy="125" r="125"></circle>
+        <circle id="path-9" cx="125" cy="125" r="125"></circle>
+    </defs>
+    <g id="02-Features" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="03-Features---Desktop" sketch:type="MSArtboardGroup" transform="translate(-143.000000, -5114.000000)">
+            <g id="Icons" sketch:type="MSLayerGroup" transform="translate(140.000000, 582.000000)">
+                <g id="Interoperability@2x" transform="translate(7.000000, 4536.000000)">
+                    <g id="Interoperability">
+                        <g id="Illustrations">
+                            <g id="Interoperability">
+                                <g id="mask-2" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                                    <circle id="path-1" cx="125" cy="125" r="125"></circle>
+                                </g>
+                                <g id="Mask" fill="#E55E5E" sketch:type="MSShapeGroup">
+                                    <circle id="path-1" cx="125" cy="125" r="125"></circle>
+                                </g>
+                                <g id="Shadows-Clipped">
+                                    <mask id="mask-2" sketch:name="path-1" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <g id="path-1"></g>
+                                    <g id="Shadows" mask="url(#mask-2)">
+                                        <g transform="translate(183.333333, 105.555556)" id="Group">
+                                            <g></g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="Shadows-Clipped">
+                                    <mask id="mask-4" sketch:name="path-1" fill="white">
+                                        <use xlink:href="#path-3"></use>
+                                    </mask>
+                                    <g id="path-1"></g>
+                                    <g id="Shadows" mask="url(#mask-4)" stroke-opacity="0.25">
+                                        <g transform="translate(-45.833333, 12.500000)" id="Oval-354-Copy-9">
+                                            <g>
+                                                <path d="M186.27565,121.274224 C180.274208,118.1268 176.388889,112.166642 176.388889,105.676328 C176.388889,94.5057721 184.78355,86.1111111 195.954107,86.1111111 C205.494228,86.1111111 213.888889,94.5057721 213.888889,105.676328 C213.888889,115.21645 205.494228,123.611111 195.954107,123.611111 C194.128847,123.611111 192.377703,123.38698 190.725185,122.970343 L191.461368,123.270269 L176.18359,160.770268 L171.038632,158.674175 L186.27565,121.274224 L186.27565,121.274224 Z M258.501683,150 C273.363662,150 286.111111,137.252552 286.111111,122.390572 C286.111111,105.803004 273.363662,93.0555556 258.501683,93.0555556 C241.914115,93.0555556 229.166667,105.803004 229.166667,122.390572 C229.166667,137.252552 241.914115,150 258.501683,150 L258.501683,150 Z M116.78744,93.0555556 C126.327561,93.0555556 134.722222,84.6608946 134.722222,75.1207729 C134.722222,63.9502165 126.327561,55.5555556 116.78744,55.5555556 C105.616883,55.5555556 97.2222222,63.9502165 97.2222222,75.1207729 C97.2222222,84.6608946 105.616883,93.0555556 116.78744,93.0555556 L116.78744,93.0555556 Z M189.009662,37.5 C198.549783,37.5 206.944444,29.105339 206.944444,19.5652174 C206.944444,8.39466094 198.549783,0 189.009662,0 C177.839106,0 169.444444,8.39466094 169.444444,19.5652174 C169.444444,29.105339 177.839106,37.5 189.009662,37.5 L189.009662,37.5 Z M165.398551,197.222222 C174.938672,197.222222 183.333333,188.827561 183.333333,179.28744 C183.333333,168.116883 174.938672,159.722222 165.398551,159.722222 C154.227994,159.722222 145.833333,168.116883 145.833333,179.28744 C145.833333,188.827561 154.227994,197.222222 165.398551,197.222222 L165.398551,197.222222 Z M94.4444443,70.8333333 L73.6111111,70.8333333 L73.6111111,76.3888889 L94.4444443,76.3888889 L94.4444443,70.8333333 L94.4444443,70.8333333 Z M160.828379,157.112353 L128.883935,91.8345754 L123.893842,94.2765357 L155.838287,159.554314 L160.828379,157.112353 L160.828379,157.112353 Z M186.151376,169.04859 L234.762489,139.881925 L231.904179,135.118075 L183.293068,164.284742 L186.151376,169.04859 L186.151376,169.04859 Z M215.992957,111.028174 L227.104068,113.805951 L228.451487,108.416271 L217.340376,105.638493 L215.992957,111.028174 L215.992957,111.028174 Z M0.834852833,132.968458 L145.081785,173.507511 L146.584882,168.159156 L2.33795047,127.620103 L0.834852833,132.968458 L0.834852833,132.968458 Z M196.382686,37.7694743 L240.827131,97.4916958 L245.283982,94.1749693 L200.839536,34.4527478 L196.382686,37.7694743 L196.382686,37.7694743 Z M169.781349,29.7074521 L133.017469,57.5483604 L136.371429,61.9772599 L173.13531,34.1363515 L169.781349,29.7074521 L169.781349,29.7074521 Z" id="Shape" stroke="#000000" stroke-width="4" sketch:type="MSShapeGroup"></path>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="Circles-Clipped">
+                                    <mask id="mask-6" sketch:name="path-1" fill="white">
+                                        <use xlink:href="#path-5"></use>
+                                    </mask>
+                                    <g id="path-1"></g>
+                                    <g id="Circles" mask="url(#mask-6)">
+                                        <g transform="translate(51.388889, 6.944444)" id="Group">
+                                            <g>
+                                                <ellipse id="Oval-354-Copy-4" stroke="#FFFFFF" stroke-width="6" sketch:type="MSShapeGroup" cx="160.416667" cy="120.138889" rx="28.4722222" ry="28.4722222"></ellipse>
+                                                <circle id="Oval-354-Copy-5" stroke="#FFFFFF" stroke-width="6" sketch:type="MSShapeGroup" cx="18.75" cy="74.3055556" r="18.75"></circle>
+                                                <circle id="Oval-354" stroke="#FFFFFF" stroke-width="6" sketch:type="MSShapeGroup" cx="97.9166667" cy="103.472222" r="18.75"></circle>
+                                                <circle id="Oval-354-Copy" stroke="#FFFFFF" stroke-width="6" sketch:type="MSShapeGroup" cx="90.9722222" cy="18.75" r="18.75"></circle>
+                                                <circle id="Oval-354-Copy-6" stroke="#FFFFFF" stroke-width="6" sketch:type="MSShapeGroup" cx="67.3611111" cy="177.083333" r="18.75"></circle>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="Lines-Clipped">
+                                    <mask id="mask-8" sketch:name="path-1" fill="white">
+                                        <use xlink:href="#path-7"></use>
+                                    </mask>
+                                    <g id="path-1"></g>
+                                    <g id="Lines" mask="url(#mask-8)">
+                                        <g transform="translate(-44.444444, 38.888889)" id="Group">
+                                            <g>
+                                                <path d="M94.146836,44.4444444 L61.739429,44.4444444" id="Line-Copy-14" stroke="#FFFFFF" stroke-width="6" sketch:type="MSShapeGroup"></path>
+                                                <path d="M156.944444,126.388889 L125,61.1111111" id="Line-Copy-15" stroke="#FFFFFF" stroke-width="6" sketch:type="MSShapeGroup"></path>
+                                                <path d="M183.333333,136.11111 L231.944446,106.944444" id="Line-Copy-17" stroke="#FFFFFF" stroke-width="6" sketch:type="MSShapeGroup"></path>
+                                                <path d="M172.222222,127.777777 L187.5,90.2777778" id="Line-Copy-20" stroke="#FFFFFF" stroke-width="6" sketch:type="MSShapeGroup"></path>
+                                                <path d="M215.277778,76.3888889 L226.388889,79.1666667" id="Line-Copy-21" stroke="#FFFFFF" stroke-width="6" sketch:type="MSShapeGroup"></path>
+                                                <path d="M0.197512762,99.7387249 L144.444444,140.277778" id="Line-Copy-18" stroke="#FFFFFF" stroke-width="6" sketch:type="MSShapeGroup"></path>
+                                                <path d="M197.222222,4.16666665 L241.666667,63.8888881" id="Line-Copy-19" stroke="#FFFFFF" stroke-width="6" sketch:type="MSShapeGroup"></path>
+                                                <path d="M172.222222,2.77777783e-08 L133.333333,29.1666658" id="Line-Copy-22" stroke="#FFFFFF" stroke-width="6" sketch:type="MSShapeGroup"></path>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="Ring">
+                                    <g id="Clipped">
+                                        <mask id="mask-10" sketch:name="path-1" fill="white">
+                                            <use xlink:href="#path-9"></use>
+                                        </mask>
+                                        <g id="path-1"></g>
+                                        <circle id="path-3" sketch:type="MSShapeGroup" mask="url(#mask-10)" cx="125" cy="125" r="118.055556"></circle>
+                                    </g>
+                                    <g id="path-3-link" transform="translate(6.944444, 6.944444)" stroke="#EBEBEB" stroke-width="20" sketch:type="MSShapeGroup">
+                                        <circle id="path-3" cx="118.055556" cy="118.055556" r="118.055556"></circle>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

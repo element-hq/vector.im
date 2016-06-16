@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="258px" height="258px" viewBox="0 0 258 258" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: sketchtool 3.4.4 (395) - http://www.bohemiancoding.com/sketch -->
+    <title>On-premise hosting@2x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="02-Features" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="03-Features---Desktop" sketch:type="MSArtboardGroup" transform="translate(-143.000000, -4354.000000)">
+            <g id="Icons" sketch:type="MSLayerGroup" transform="translate(140.000000, 582.000000)">
+                <g id="On-premise-hosting@2x" transform="translate(7.000000, 3776.000000)" sketch:type="MSShapeGroup">
+                    <g id="On-premise-hosting">
+                        <g id="Illustrations">
+                            <g id="On-premise-hosting">
+                                <circle id="circle-copy" fill="#81BDDA" cx="125" cy="125" r="125"></circle>
+                                <path d="M36.4529081,184.412978 L222.1573,184.412978 L174.077692,227.235243 L77.5824653,225.786675 L36.4529081,184.412978 L36.4529081,184.412978 Z" id="Path-91" stroke="#76CFA6" fill="#76CFA6"></path>
+                                <g id="Sun" transform="translate(148.611111, 15.277778)">
+                                    <circle id="Oval-7-Copy" stroke="#DAD658" stroke-width="5" stroke-dasharray="2,5" transform="translate(35.491630, 35.622091) rotate(4.000000) translate(-35.491630, -35.622091) " cx="35.4916299" cy="35.6220913" r="32.7256944"></circle>
+                                    <circle id="Oval" fill="#DAD658" cx="35.8506944" cy="37.2395833" r="19.1840278"></circle>
+                                </g>
+                                <g id="Group" transform="translate(27.777778, 55.555556)">
+                                    <rect id="Rectangle-194" stroke="#FFFFFF" stroke-width="3" fill="#6796AD" x="54.1666667" y="0" width="70.8333333" height="136.111111" rx="2"></rect>
+                                    <g transform="translate(20.833333, 26.388889)">
+                                        <rect id="Rectangle-193" stroke="#FFFFFF" stroke-width="3" fill="#81BDDA" x="0" y="0" width="52.7777778" height="109.722222" rx="2"></rect>
+                                        <rect id="Rectangle-199" fill="#FFFFFF" x="13.8888889" y="15.2777778" width="13.8888889" height="13.8888889"></rect>
+                                        <rect id="Rectangle-199-Copy" fill="#FFFFFF" x="13.8888889" y="40.2777778" width="13.8888889" height="13.8888889"></rect>
+                                        <rect id="Rectangle-199-Copy-2" fill="#FFFFFF" x="13.8888889" y="65.2777778" width="13.8888889" height="13.8888889"></rect>
+                                    </g>
+                                    <g transform="translate(109.722222, 40.277778)">
+                                        <rect id="Rectangle-195" fill="#FFFFFF" x="0" y="0" width="58.3333333" height="97.2222222" rx="2"></rect>
+                                        <rect id="Rectangle-200" fill="#81BDDA" x="20.8333333" y="8.33333333" width="29.1666667" height="16.6666667"></rect>
+                                        <rect id="Rectangle-200-Copy" fill="#81BDDA" x="20.8333333" y="33.3333333" width="29.1666667" height="16.6666667"></rect>
+                                        <rect id="Rectangle-200-Copy-2" fill="#81BDDA" x="20.8333333" y="58.3333333" width="29.1666667" height="16.6666667"></rect>
+                                    </g>
+                                    <rect id="Rectangle-202-Copy" fill-opacity="0.25" fill="#000000" x="0" y="138.888889" width="194.444444" height="5.55555556"></rect>
+                                    <rect id="Rectangle-202" fill="#FFFFFF" x="0" y="133.333333" width="194.444444" height="5.55555556"></rect>
+                                </g>
+                                <g id="circle" transform="translate(6.944444, 6.944444)">
+                                    <circle id="path-1" cx="118.055556" cy="118.055556" r="118.055556"></circle>
+                                    <g id="path-1-link" stroke="#EBEBEB" stroke-width="20">
+                                        <circle id="path-1" cx="118.055556" cy="118.055556" r="118.055556"></circle>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

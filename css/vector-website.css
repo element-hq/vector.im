@@ -1,0 +1,390 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #fff;
+    font-family: OpenSans, Arial, Helvetica, Sans-Serif;
+}
+
+svg {
+    pointer-events: none;
+}
+
+a:link,
+a:hover,
+a:visited {
+    color: #5cbe91;
+}
+
+.vec_Page {
+    max-width: 1280px;
+    margin: auto;
+    box-shadow: 0 0 2px rgba( 0, 0, 0, 0.5 );
+    position: relative;
+}
+
+.vec_Header {
+    height: 100px;
+    display: flex;
+    display: -webkit-flex;
+    color: #142937;
+    font-size: 16px;
+    font-weight: 600;
+    align-items: center;
+}
+
+.vec_Header a {
+    text-decoration: inherit ! important;
+    color: inherit ! important;
+}
+
+.vec_Header_LeftGroup {
+    flex: 1 1 0;
+    -webkit-flex: 1 1 0;
+    order: 1;
+    display: flex;
+    display: -webkit-flex;
+    justify-content: center;
+}
+
+.vec_Header_Logo {
+    flex: 0 0 auto;
+    -webkit-flex: 0 0 auto;
+    order: 2;
+}
+
+.vec_Header_RightGroup {
+    flex: 1 1 0;
+    -webkit-flex: 1 1 0;
+    order: 3;
+    display: flex;
+    display: -webkit-flex;
+    justify-content: center;
+}
+
+.vec_Header_Button {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.vec_Header_Button_cta {
+    display: inline-block;
+    border-radius: 3px;
+    background-color: #5cbe91;
+    border: 1px solid #38a271;
+    color: #fff;
+    font-weight: bold;
+    padding: 3px 12px 3px 12px;
+    margin-top: -5px;
+}
+
+.vec_Splash {
+    background-color: #f7f5f6;
+    position: relative;
+}
+
+#vec_Splash_bg {
+    position: absolute;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.5);
+    opacity: 0.7;
+}
+
+.vec_Splash .hero {
+    margin: auto;
+    max-width: 70%;
+}
+
+#vec_Splash_shim {
+    width: 100%;
+}
+
+.vec_Headline {
+    background-color: #f7f5f6;
+    text-align: center;
+    padding-top: 72px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.vec_Headline h1 {
+    font-family: Montserrat, Arial, Helvetica, Sans-Serif;
+    color: #142937;
+    font-size: 44px;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.vec_Headline h3 {
+    margin-top: 23px;
+    color: #142937;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.vec_Headline_cta,
+.vec_Benefits_cta,
+.vec_Audiences_cta,
+.vec_Pricing_cta {
+    margin: auto;
+    display: inline-block;
+    border-radius: 5px;
+    background-color: #5cbe91;
+    border: 1px solid #38a271;
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 12px 40px 12px 40px;
+}
+
+.vec_Header_Button_cta a,
+.vec_Headline_cta a,
+.vec_Benefits_cta a,
+.vec_Audiences_cta a,
+.vec_Pricing_cta a {
+    text-decoration: inherit ! important;
+    color: inherit ! important;
+}
+
+.vec_Headline_cta {
+    margin-top: 24px;
+    margin-right: 25px;
+    margin-left: 25px;
+    font-size: 18px;
+}
+
+.vec_Headline_Features {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+    display: -webkit-flex;
+    justify-content: center;
+    align-items: flex-start;
+    -webkit-justify-content: center;
+    -webkit-align-items: flex-start;
+    flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+}
+
+.vec_Headline_Feature {
+    width: 170px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.vec_Headline_Feature div {
+    display: inline-block;
+    margin-top: 16px;
+    color: #142937;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.vec_Blurbs {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+    display: -webkit-flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    -webkit-justify-content: center;
+    -webkit-align-items: center;
+    -webkit-flex-wrap: wrap;
+    background-color: #4f6680;
+    box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.5);
+}
+
+.vec_Blurb {
+    margin-left: 45px;
+    margin-right: 45px;
+    color: #fff;
+    opacity: 0.7;
+}
+
+.vec_Audiences,
+.vec_Benefits {
+    margin: auto;
+    text-align: center;
+    background-color: #f7f5f6;
+    position: relative;
+}
+
+#vec_Audience_lines,
+#vec_Benefit_lines {
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.vec_Audiences h2,
+.vec_Benefits h2 {
+    padding-top: 58px;
+    margin: 0px;
+    font-family: Montserrat, Arial, Helvetica, Sans-Serif;
+    font-weight: normal;
+    color: #132737;
+    font-size: 44px;
+}
+
+.vec_Audience,
+.vec_Benefit {
+    width: 260px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.vec_Audience img,
+.vec_Benefit img {
+    position: relative;
+    z-index: 100;
+}
+
+.vec_Audience h3,
+.vec_Benefit h3 {
+    color: #132737;
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    z-index: 10;
+}
+
+.vec_Audience div,
+.vec_Benefit div {
+    color: #132737;
+    font-size: 16px;
+    position: relative;
+    z-index: 10;
+}
+
+.vec_Benefit1,
+.vec_Benefit3,
+.vec_Audience2,
+.vec_Audience4 {
+    margin-top: 60px;
+}
+
+.vec_Benefit2,
+.vec_Benefit4,
+.vec_Audience1,
+.vec_Audience3 {
+    margin-top: 130px;
+}
+
+.vec_Audiences_cta,
+.vec_Benefits_cta {
+    margin-top: 60px;
+    margin-bottom: 72px;
+}
+
+.vec_Pricing {
+    background-color: #4f6680;
+    padding: 30px;
+    color: #fff;
+    margin: auto;
+    text-align: center;
+    font-size: 16px;
+    padding-bottom: 70px;
+}
+
+.vec_Pricing h2 {
+    padding-top: 40px;
+    padding-bottom: 10px;
+    margin: 0px;
+    font-family: Montserrat, Arial, Helvetica, Sans-Serif;
+    font-weight: normal;
+    color: #fff;
+    font-size: 44px;
+}
+
+.vec_Pricing_price {
+    padding-top: 40px;
+    font-size: 40px;
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+.vec_Pricing_price_huge {
+    font-size: 80px;
+    vertical-align: middle;
+    position: relative;
+    top: -10px;
+    margin-left: 6px;
+}
+
+.vec_Pricing_cta {
+    margin-bottom: 70px;
+}
+
+.vec_Pricing_email {
+    margin-top: 30px;
+    width: 360px;
+    margin-bottom: 15px;
+    background-color: #44566b;
+    display: inline-block;
+    padding: 13px;
+    border-radius: 2px;
+}
+
+.vec_Pricing_email input {
+    float: left;
+    background-color: #44566b;
+    font-size: 16px;
+    width: 300px;
+    border: 0px;
+    font-family: OpenSans, Arial, Helvetica, Sans-Serif;
+    color: #fff;
+}
+
+.vec_Pricing_email img {
+    float: right;
+}
+
+.vec_Pricing hr {
+    height: 1px;
+    border: 0px;
+    margin-left: 135px;
+    margin-right: 135px;
+    background-color: #66798d;
+}
+
+.vec_Footer {
+    background-color: #4f6680;
+    height: 175px;
+    padding: 40px;
+}
+
+.vec_Footer a {
+    text-decoration: inherit ! important;
+    color: #fff ! important;
+    opacity: 0.8;
+}
+
+.vec_Footer_lhs {
+    margin-left: 130px;
+    height: 175px;
+    float: left;
+    width: 40%;
+}
+
+.vec_Footer_logo {
+    opacity: 0.7;
+    margin-right: 8px;
+    position: relative;
+    top: 4px;
+}
+
+.vec_Footer_rhs {
+}
+
+.vec_Footer_item {
+    margin-bottom: 30px;
+}
+
