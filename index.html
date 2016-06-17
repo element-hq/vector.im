@@ -21,6 +21,7 @@
 <meta property="og:site_name" content="Vector"/>
 <meta property="og:title" content="Vector - Matrix-powered open source collaboration for teams"/>
 <meta property="og:image" content="https://vector.im/img/logo.png"/>
+<meta property="og:description" content="Secure. Interoperable. Open source. Vector is a simple yet elegant interface that securely brings all your conversations and applications together in one place."/>
 </head>
 <body>
 
@@ -435,6 +436,11 @@
 
 </body>
     <script type="text/javascript">
+    // support any lost https://vector.im/#/room/#foo:matrix.org style URLs out there
+    if (window.location.hash.indexOf("#/") === 0) {
+        window.location.href = "https://vector.im/beta/" + window.location.hash;
+    }
+
     function linkNodes(nodes, svg) {
         var svgns = 'http://www.w3.org/2000/svg';
         for (var i = 0; i < nodes.length - 1; i++) {
