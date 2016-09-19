@@ -15,6 +15,15 @@ a:visited {
     color: #5cbe91;
 }
 
+.vec_evolution {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    margin-top: -225px;
+    margin-left: -225px;
+    z-index: 2000000;
+}
+
 .vec_Page {
     max-width: 1280px;
     margin: auto;
