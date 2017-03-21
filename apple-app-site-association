@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "884E442RN2.im.vector.app",
+                "appID": "7J4U792NQT.im.vector.app",
                 "paths": [ "/app/*", "/beta/*", "/develop/*", "/staging/*", "/_matrix/identity/api/v1/validate/email/*" ]
             }
         ]
