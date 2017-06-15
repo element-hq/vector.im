@@ -23,7 +23,7 @@ else if (ereg('Android|android',$_SERVER['HTTP_USER_AGENT'])) {
 }
 */
 ?>
-<title>Vector Download</title>
+<title>Riot Download</title>
 <style>
 body {
     text-align: center;

@@ -13,8 +13,8 @@ function _get_jenkins_stream_context() {
 
 function fetch_ios_build($stream) {
     $streams = array(
-        'master' => 'VectoriOSDevelop',
-        'develop' => 'VectoriOSDevelop'
+        'master' => 'RiotiOSDevelop',
+        'develop' => 'RiotiOSDevelop'
     );
 
     $jenkinsjob = $streams[$stream];
