@@ -1,8 +1,11 @@
 <?php
 
 function _get_jenkins_stream_context() {
-    $username = 'dbkr';
-    $password = '11d7ad76ed7471de59bd23a2d8795c6c';
+    // Jenkins API credentials should go in this file, probably symlinked
+    // into place. It should define:
+    //  * 'username' (the jenkins username)
+    //  * 'password' (the jenkins API token)
+    require('creds.php');
 
     return stream_context_create(array(
         'http' => array(
