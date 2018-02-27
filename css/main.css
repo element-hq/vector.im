@@ -65,6 +65,7 @@ a {
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
+  color: #61D2B4;
 }
 
 h1, h2, h3, h4, h5 {
@@ -87,6 +88,7 @@ a:hover,
 a:focus {
   text-decoration: none;
   outline: none;
+
 }
 
 a:not([href]):not([tabindex]) {
@@ -730,6 +732,7 @@ button:focus {
   color: #fff;
   overflow: hidden;
   position: relative;
+  height: 100%;
 }
 
 .video-promo .video-promo-content {
