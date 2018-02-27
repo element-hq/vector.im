@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="258px" height="258px" viewBox="0 0 258 258" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: sketchtool 3.4.4 (395) - http://www.bohemiancoding.com/sketch -->
+    <title>Video conferencing@2x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="158.333333" height="63.8888889" rx="1"></rect>
+        <rect id="path-3" x="0" y="0" width="158.333333" height="63.8888889" rx="1"></rect>
+        <rect id="path-5" x="0" y="0" width="158.333333" height="63.8888889" rx="1"></rect>
+        <rect id="path-7" x="0" y="0" width="158.333333" height="63.8888889" rx="1"></rect>
+        <rect id="path-9" x="0" y="0" width="158.333333" height="63.8888889" rx="1"></rect>
+        <rect id="path-11" x="0" y="0" width="51.3888889" height="33.3333333" rx="2"></rect>
+    </defs>
+    <g id="02-Features" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="03-Features---Desktop" sketch:type="MSArtboardGroup" transform="translate(-136.000000, -1318.000000)">
+            <g id="Icons" sketch:type="MSLayerGroup" transform="translate(140.000000, 582.000000)">
+                <g id="Video-conferencing@2x" transform="translate(0.000000, 740.000000)">
+                    <g id="Video-conferencing">
+                        <g id="Illustrations">
+                            <g id="Video-conferencing">
+                                <circle id="circle-copy" fill="#BD79CB" sketch:type="MSShapeGroup" cx="125" cy="125" r="125"></circle>
+                                <g id="Shadow" transform="translate(34.722222, 77.777778)" fill="#000000" sketch:type="MSShapeGroup" fill-opacity="0.25">
+                                    <rect id="Rectangle-183" x="3.94745964e-14" y="0" width="180.555556" height="127.777778" rx="5"></rect>
+                                </g>
+                                <g id="Computer" transform="translate(34.722222, 72.222222)" sketch:type="MSShapeGroup">
+                                    <rect id="Rectangle-183" fill="#F2F2F2" x="3.94745964e-14" y="0" width="180.555556" height="127.777778" rx="5"></rect>
+                                    <rect id="Rectangle-183-Copy" fill="#000000" x="4.16666667" y="4.16666667" width="172.222222" height="111.111111" rx="2"></rect>
+                                    <ellipse id="Oval-152" fill="#D0011B" cx="90.2777778" cy="12.5" rx="2.77777778" ry="2.77777778"></ellipse>
+                                </g>
+                                <g id="Ring" transform="translate(6.944444, 6.944444)" sketch:type="MSShapeGroup">
+                                    <circle id="path-1" cx="118.055556" cy="118.055556" r="118.055556"></circle>
+                                    <g id="path-1-link" stroke="#EBEBEB" stroke-width="20">
+                                        <circle id="path-1" cx="118.055556" cy="118.055556" r="118.055556"></circle>
+                                    </g>
+                                </g>
+                                <g id="Video" transform="translate(45.833333, 93.055556)">
+                                    <g id="mask-3" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                                        <rect id="path-2" x="0" y="0" width="158.333333" height="63.8888889" rx="1"></rect>
+                                    </g>
+                                    <g id="Mask" fill="#EBEBEB" sketch:type="MSShapeGroup">
+                                        <rect id="path-2" x="0" y="0" width="158.333333" height="63.8888889" rx="1"></rect>
+                                    </g>
+                                    <g id="Mask-Copy-Clipped">
+                                        <mask id="mask-2" sketch:name="path-2" fill="white">
+                                            <use xlink:href="#path-1"></use>
+                                        </mask>
+                                        <g id="path-2"></g>
+                                        <rect id="Mask-Copy" fill="#E55E5E" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="0" y="0" width="77.7777778" height="63.8888889" rx="1"></rect>
+                                    </g>
+                                    <g id="Mask-Copy-2-Clipped">
+                                        <mask id="mask-4" sketch:name="path-2" fill="white">
+                                            <use xlink:href="#path-3"></use>
+                                        </mask>
+                                        <g id="path-2"></g>
+                                        <rect id="Mask-Copy-2" fill="#81BDDA" sketch:type="MSShapeGroup" mask="url(#mask-4)" x="80.5555556" y="0" width="77.7777778" height="63.8888889" rx="1"></rect>
+                                    </g>
+                                    <g id="Boy-Clipped">
+                                        <mask id="mask-6" sketch:name="path-2" fill="white">
+                                            <use xlink:href="#path-5"></use>
+                                        </mask>
+                                        <g id="path-2"></g>
+                                        <g id="Boy" mask="url(#mask-6)">
+                                            <g transform="translate(91.666667, 6.944444)" id="Group">
+                                                <g>
+                                                    <rect id="Rectangle-25" fill="#9D633D" sketch:type="MSShapeGroup" x="8.33333333" y="9.72222222" width="47.2222222" height="48.6111111" rx="24"></rect>
+                                                    <ellipse id="Oval-37" fill="#311F1D" sketch:type="MSShapeGroup" cx="17.3611111" cy="34.0277778" rx="3.47222222" ry="3.47222222"></ellipse>
+                                                    <ellipse id="Oval-39" fill="#9D633D" sketch:type="MSShapeGroup" transform="translate(4.925419, 36.212112) rotate(-20.000000) translate(-4.925419, -36.212112) " cx="4.92541939" cy="36.2121118" rx="3.47222222" ry="4.86111111"></ellipse>
+                                                    <ellipse id="Oval-39-Copy" fill="#9D633D" sketch:type="MSShapeGroup" transform="translate(58.934847, 36.212112) rotate(200.000000) translate(-58.934847, -36.212112) " cx="58.9348472" cy="36.2121118" rx="3.47222222" ry="4.86111111"></ellipse>
+                                                    <ellipse id="Oval-37-Copy" fill="#311F1D" sketch:type="MSShapeGroup" cx="45.1388889" cy="34.0277778" rx="3.47222222" ry="3.47222222"></ellipse>
+                                                    <path d="M25.5888753,36.0022392 C26.1505017,33.7693206 28.4638374,31.9543722 30.7779261,31.9483814 L31.2969986,31.9470376 C33.6012058,31.9410724 36.0232257,33.7163051 36.7060214,35.9098503 L37.0710614,37.0825751 C37.754175,39.2771414 36.460045,41.3115492 34.1604046,41.5431274 L35.4642422,41.4236356 C33.1714772,41.5578579 29.4540556,41.6103286 27.1445194,41.4218796 L28.4465982,41.5416542 C26.1662706,41.273539 24.7697528,39.2589131 25.3346143,37.0131322 L25.5888753,36.0022392 L25.5888753,36.0022392 Z" id="Nose-Copy-3" fill-opacity="0.5" fill="#311F1D" sketch:type="MSShapeGroup"></path>
+                                                    <path d="M51.7378978,11.1512169 C51.7378978,11.1512169 50.6415307,4.70073738 49.0322624,3.81074685 C47.422994,2.92075632 43.714751,2.30270735 43.714751,2.30270735 C43.714751,2.30270735 42.7889154,0.773198785 41.659226,0.773198785 C40.5295367,0.773198785 35.5769365,-0.434924317 33.8291522,0.169137233 C32.0813679,0.773198785 20.8779071,4.17246815 19.9226694,4.69325572 C18.9674318,5.21404329 10.6803205,8.7827879 10.102735,10.1353396 C9.52514944,11.4878913 6.68491825,14.7537915 6.68491825,15.7046114 C6.68491825,16.6554313 5.55555556,20.0729163 5.55555556,20.7345542 C5.55555556,21.3961922 5.61370614,23.9266142 5.95868936,25.5039406 C6.30367258,27.0812669 6.47453075,29.3664211 6.47453075,29.7967786 L6.47453075,34.932115 C6.47453075,35.6227038 8.33570444,41.3250185 8.33570444,41.3250185 C8.33570444,41.3250185 8.99692229,42.395544 8.99692229,42.3955443 C8.99692229,42.3955446 10.334059,42.7501089 10.334059,41.3682818 C10.334059,39.9864547 8.3859861,32.2374215 8.3859861,32.2374215 C8.3859861,32.2374215 9.70943026,28.2493789 10.2180845,26.0501007 C10.7267387,23.8508225 10.6238034,22.8032967 11.5208905,21.8049853 C12.4179775,20.8066738 16.1987454,17.566565 17.3245144,17.0747285 C18.4502836,16.5828918 24.0938301,14.6444944 25.4486081,14.6444947 C26.803386,14.6444951 30.7220164,14.905051 32.8138039,14.9050513 C34.9055914,14.9050515 37.8467693,14.9805179 39.3400632,15.3425649 C40.8333571,15.7046117 42.3795744,16.0946325 43.8549004,15.7185989 C45.3302265,15.3425651 46.4017653,15.1932572 46.4017653,15.1932572 C46.4017653,15.1932572 45.9078119,15.6919249 46.5072857,17.2331442 C47.1067594,18.7743633 49.5644382,19.5950668 50.4442107,20.6766528 C51.3239833,21.7582388 53.8662744,23.1296564 53.8662744,24.5898786 C53.8662744,26.050101 54.5346493,28.1712871 54.766955,29.6494228 C54.9992608,31.1275583 55.1798593,32.2374228 55.1798593,34.2771278 C55.1798593,36.855641 55.0642861,37.0116286 54.65138,38.4476921 C54.238474,39.8837556 53.8662726,42.3955454 53.8662726,42.3955454 C53.8662726,42.3955454 55.1798611,43.0555578 55.1798611,43.0555556 C55.1798611,43.0555533 56.0769482,42.4215671 56.0769482,41.8949246 C56.0769482,41.3682822 57.8218207,35.8630917 57.8218207,34.5033842 C57.8218207,33.1436768 58.5235479,28.8394529 58.5235479,26.714666 C58.5235479,24.5898789 59.3298156,22.8525101 59.3298156,21.3656147 C59.3298156,19.8787193 60.0782593,17.6306469 59.5078608,16.6746231 C58.9374625,15.7185992 58.563404,16.2881794 57.2154865,15.1880526 C55.8675692,14.0879257 53.5167175,11.2091181 53.033545,11.2091184 C52.5503725,11.2091187 51.7378978,11.1512169 51.7378978,11.1512169 L51.7378978,11.1512169 Z" id="Path-37" fill="#311E1C" sketch:type="MSShapeGroup"></path>
+                                                    <path d="M20.8422642,45.2350718 C20.4481746,42.4859 33.1941524,48.0209711 39.7176089,45.1414015 C46.2410654,42.2618319 34.472549,51.3888889 32.3762428,51.3888889 C25.3336649,51.3888888 21.2363539,47.9842436 20.8422642,45.2350718 L20.8422642,45.2350718 Z" id="Path-105" stroke="#7F3D25" fill="#7F3D25" sketch:type="MSShapeGroup"></path>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="Girl-Clipped">
+                                        <mask id="mask-8" sketch:name="path-2" fill="white">
+                                            <use xlink:href="#path-7"></use>
+                                        </mask>
+                                        <g id="path-2"></g>
+                                        <g id="Girl" mask="url(#mask-8)">
+                                            <g transform="translate(-15.277778, -11.111111)" id="Group">
+                                                <g transform="translate(51.852847, 52.745607) rotate(-40.000000) translate(-51.852847, -52.745607) translate(15.047291, 15.940051)">
+                                                    <rect id="Face" fill="#EEDBCB" sketch:type="MSShapeGroup" transform="translate(35.622299, 38.574280) rotate(40.000000) translate(-35.622299, -38.574280) " x="19.6500769" y="14.268724" width="31.9444444" height="48.6111111"></rect>
+                                                    <path d="M69.1874072,20.1024962 C67.0892526,15.9337983 62.4384769,12.7092383 58.3091618,9.28610732 C50.8270578,3.08357239 44.1114876,-2.55925774 35.4366049,4.14454263 C26.7617219,10.848343 0.877017992,40.982255 0.877017992,40.982255 L9.45110415,44.594599 L34.8912278,16.1782879 C39.9977836,33.3417722 59.7311103,30.8775911 59.7311103,30.8775911 L27.9458606,73.3377604 L38.5629586,72.4518856 C38.5629586,72.4518856 60.2229106,44.4322876 67.6041581,32.7357628 C70.2581235,28.5302172 70.7692246,25.1192168 69.9875201,22.1867743 C70.9027557,21.5727199 71.7896947,20.9409218 72.462875,20.3849382 C73.9790319,19.132735 74.0199321,18.1372471 72.2900812,19.0636207 C71.0332714,19.7366704 70.0086544,20.0279506 69.1874072,20.1024962 L69.1874072,20.1024962 Z" id="Hair" fill="#BB814D" sketch:type="MSShapeGroup"></path>
+                                                    <rect id="Eye-1" fill="#81BDDA" sketch:type="MSShapeGroup" transform="translate(31.916877, 30.025865) rotate(40.000000) translate(-31.916877, -30.025865) " x="29.8335439" y="26.5536425" width="4.16666667" height="6.94444444" rx="5"></rect>
+                                                    <rect id="Eye-2" fill="#81BDDA" sketch:type="MSShapeGroup" transform="translate(44.684284, 40.738992) rotate(40.000000) translate(-44.684284, -40.738992) " x="42.6009509" y="37.2667694" width="4.16666667" height="6.94444444" rx="5"></rect>
+                                                    <rect id="Nose" fill-opacity="0.100000001" fill="#000000" sketch:type="MSShapeGroup" transform="translate(33.029613, 42.744487) rotate(40.000000) translate(-33.029613, -42.744487) " x="30.2518348" y="37.1889315" width="5.55555556" height="11.1111111" rx="7"></rect>
+                                                    <rect id="Nose-Copy" fill-opacity="0.200000018" fill="#E55E5E" sketch:type="MSShapeGroup" transform="translate(25.581958, 36.495163) rotate(40.000000) translate(-25.581958, -36.495163) " x="22.8041802" y="33.7173857" width="5.55555556" height="5.55555556" rx="7"></rect>
+                                                    <rect id="Nose-Copy-2" fill-opacity="0.200000018" fill="#E55E5E" sketch:type="MSShapeGroup" transform="translate(39.413316, 48.101051) rotate(40.000000) translate(-39.413316, -48.101051) " x="36.6355384" y="45.3232729" width="5.55555556" height="5.55555556" rx="7"></rect>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="Rectangle-195-Clipped">
+                                        <mask id="mask-10" sketch:name="path-2" fill="white">
+                                            <use xlink:href="#path-9"></use>
+                                        </mask>
+                                        <g id="path-2"></g>
+                                        <rect id="Rectangle-195" fill="#000000" sketch:type="MSShapeGroup" mask="url(#mask-10)" x="77.7777778" y="-1.38888889" width="2.77777778" height="65.2777778"></rect>
+                                    </g>
+                                </g>
+                                <g id="Girl-+-Rectangle-196" transform="translate(98.611111, 140.277778)">
+                                    <g id="mask-5" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                                        <rect id="path-4" x="0" y="0" width="51.3888889" height="33.3333333" rx="2"></rect>
+                                    </g>
+                                    <g id="Mask" stroke="#000000" fill="#DAD658" sketch:type="MSShapeGroup">
+                                        <rect id="path-4" x="0" y="0" width="51.3888889" height="33.3333333" rx="2"></rect>
+                                    </g>
+                                    <g id="Girl-Clipped">
+                                        <mask id="mask-12" sketch:name="path-4" fill="white">
+                                            <use xlink:href="#path-11"></use>
+                                        </mask>
+                                        <g id="path-4"></g>
+                                        <g id="Girl" mask="url(#mask-12)">
+                                            <g transform="translate(-4.166667, -5.555556)" id="Group">
+                                                <g transform="translate(28.372313, 28.868441) rotate(-40.000000) translate(-28.372313, -28.868441) translate(8.233424, 8.729552)">
+                                                    <rect id="Face" fill="#9D633D" sketch:type="MSShapeGroup" transform="translate(20.470108, 19.899589) rotate(40.000000) translate(-20.470108, -19.899589) " x="12.8312195" y="5.31625569" width="15.2777778" height="29.1666667"></rect>
+                                                    <path d="M37.649954,11.5906683 C36.5532778,9.24177093 34.4645044,7.15970247 32.3669319,5.53339979 C28.2743688,2.36032869 23.5518478,-0.99237941 18.5178257,2.58105585 C13.4838035,6.15449111 0.938176632,21.9370321 0.938176632,21.9370321 L2.96785344,28.7650053 L19.1194165,9.76593206 C22.0827436,18.9148621 32.3669317,16.4415958 32.3669317,16.4415958 L14.1539561,39.4269329 L21.6021444,39.9315411 C21.6021444,39.9315411 33.9630628,24.0940561 37.2408124,18.8542972 C38.557719,16.749111 38.6903138,14.6974664 38.1122471,12.7903738 C38.3489765,12.3523207 38.5621138,11.9280347 38.7180682,11.5623385 C39.1804404,10.4781259 38.8692503,9.95878718 38.1726531,10.9398285 C37.9970542,11.1871304 37.8222818,11.402788 37.649954,11.5906683 L37.649954,11.5906683 Z" id="Hair" fill="#311F1D" sketch:type="MSShapeGroup"></path>
+                                                    <rect id="Eye-1" fill="#311F1D" sketch:type="MSShapeGroup" transform="translate(16.746281, 16.774927) rotate(40.000000) translate(-16.746281, -16.774927) " x="15.3573925" y="14.691594" width="2.77777778" height="4.16666667" rx="5"></rect>
+                                                    <rect id="Eye-2" fill="#311F1D" sketch:type="MSShapeGroup" transform="translate(23.129985, 22.131491) rotate(40.000000) translate(-23.129985, -22.131491) " x="21.7410966" y="20.0481573" width="2.77777778" height="4.16666667" rx="5"></rect>
+                                                    <rect id="Nose" fill-opacity="0.200000018" fill="#000000" sketch:type="MSShapeGroup" transform="translate(16.813471, 23.177036) rotate(40.000000) translate(-16.813471, -23.177036) " x="15.4245822" y="20.3992578" width="2.77777778" height="5.55555556" rx="7"></rect>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
