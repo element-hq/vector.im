@@ -738,7 +738,7 @@ button:focus {
 
 .video-promo .video-promo-content h2 {
   color: #fff;
-  font-size: 30px;
+  /* font-size: 30px; */
   text-transform: uppercase;
   margin-bottom: 30px;
 }
@@ -748,8 +748,8 @@ button:focus {
 }
 
 .video-promo .video-promo-content .video-popup {
-  width: 80px;
-  height: 80px;
+  width: 178px;
+  height: 178px;
   text-align: center;
   border: 3px solid #fff;
   color: #fff;
@@ -964,6 +964,19 @@ button:focus {
   font-size: 20px;
   font-weight: 400;
   color: #fff;
+}
+
+/* ==========================================================================
+11. Trusted Section Style
+ ========================================================================== */
+
+
+#trusted {
+  background-color: #61D2B4;
+  background-size: cover;
+  color: #fff;
+  overflow: hidden;
+  position: relative;
 }
 
 /* ==========================================================================
