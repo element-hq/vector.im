@@ -56,7 +56,7 @@ p {
   line-height: 26px;
 }
 
-a:hover, a:focus {
+a, a:hover, a:focus {
   color: #61D2B4;
 }
 
@@ -755,7 +755,7 @@ button:focus {
   color: #fff;
   border-radius: 50%;
   display: inline-block;
-  font-size: 30px;
+  font-size: 80px;
   -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
