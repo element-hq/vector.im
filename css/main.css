@@ -56,8 +56,8 @@ p {
   line-height: 26px;
 }
 
-a:hover, a:focus {
-  color: #61D2B4;
+a, a:hover, a:focus {
+  color: #76CFA6;
 }
 
 a {
@@ -96,7 +96,7 @@ a:not([href]):not([tabindex]) {
 }
 
 a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
-  color: #61D2B4;
+  color: #76CFA6;
 }
 
 /* ==========================================================================
@@ -122,7 +122,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 
 .section-header .section-title span {
-  color: #61D2B4;
+  color: #76CFA6;
 }
 
 .section-header .section-subtitle {
@@ -136,7 +136,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   margin: auto;
   width: 70px;
   position: relative;
-  border-top: 2px solid #61D2B4;
+  border-top: 2px solid #76CFA6;
   margin-top: 15px;
 }
 
@@ -165,8 +165,8 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 
 .btn-common {
-  border: 1px solid #61D2B4;
-  background: #61D2B4;
+  border: 1px solid #76CFA6;
+  background: #76CFA6;
   position: relative;
   color: #fff;
   z-index: 1;
@@ -192,7 +192,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 .btn-border:hover {
   border: 2px solid #fff;
   color: #fff;
-  background-color: #61D2B4;
+  background-color: #76CFA6;
 }
 
 .btn-lg {
@@ -342,7 +342,7 @@ button:focus {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background-color: #61D2B4;
+  background-color: #76CFA6;
   opacity: 0.6;
   position: absolute;
   top: 0;
@@ -395,7 +395,7 @@ button:focus {
   font-size: 14px;
   text-align: center;
   border-radius: 4px;
-  background-color: #61D2B4;
+  background-color: #76CFA6;
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
@@ -406,7 +406,7 @@ button:focus {
    3. Hero Area
    ========================================================================== */
 #hero-area {
-  background: url(../img/hero-area.jpg) fixed no-repeat;
+  background: url(../img/hero.jpg) fixed no-repeat;
   background-size: cover;
   color: #fff;
   overflow: hidden;
@@ -419,12 +419,12 @@ button:focus {
   height: 100%;
   top: 0px;
   left: 0px;
-  background: #61D2B4;
+  background: #76CFA6;
   opacity: 0.9;
 }
 
 #hero-area .contents {
-  padding: 200px 0 130px;
+  padding: 300px 0 230px;
 }
 
 #hero-area .contents h1 {
@@ -461,12 +461,22 @@ button:focus {
 }
 
 #hero-area .banner_bottom_btn i:hover {
-  color: #61D2B4;
+  color: #76CFA6;
 }
 
 /* ==========================================================================
    4. Navbar Style
    ========================================================================== */
+#new-vector-logo {
+  background-image: url('../img/new-vector.svg');
+  width: 248px;
+  height: 111px;
+}
+
+.top-nav-collapse #new-vector-logo {
+  background-image: url('../img/new-vector-green.svg');
+}
+
 .navbar-brand {
   position: relative;
   padding: 0px;
@@ -498,7 +508,7 @@ button:focus {
 }
 
 .top-nav-collapse .navbar-nav .nav-link:hover {
-  color: #61D2B4 !important;
+  color: #76CFA6 !important;
 }
 
 .top-nav-collapse .navbar-nav .nav-link.active {
@@ -525,12 +535,12 @@ button:focus {
 .navbar-expand-lg .navbar-nav li a:hover,
 .navbar-expand-lg .navbar-nav li .active > a,
 .navbar-expand-lg .navbar-nav li a:focus {
-  color: #61D2B4;
+  color: #76CFA6;
 }
 
 .navbar .nav-link.active {
   color: #fff !important;
-  background: #61D2B4;
+  background: #76CFA6;
 }
 
 .dropdown-toggle::after {
@@ -538,11 +548,11 @@ button:focus {
 }
 
 .slicknav_btn {
-  border-color: #61D2B4;
+  border-color: #76CFA6;
 }
 
 .slicknav_menu .slicknav_icon-bar {
-  background: #61D2B4;
+  background: #76CFA6;
 }
 
 /* only small tablets */
@@ -583,16 +593,16 @@ button:focus {
     display: block;
   }
   .slicknav_nav .active a {
-    background: #61D2B4;
+    background: #76CFA6;
     color: #fff;
   }
   .slicknav_nav a:hover, .slicknav_nav .active {
-    color: #61D2B4;
+    color: #76CFA6;
     background: #f8f9fa;
   }
   .slicknav_nav .dropdown li a.active {
     background: #f8f9fa;
-    color: #61D2B4;
+    color: #76CFA6;
   }
 }
 
@@ -624,7 +634,7 @@ button:focus {
 .item-boxes .icon i {
   font-size: 26px;
   line-height: 60px;
-  color: #61D2B4;
+  color: #76CFA6;
 }
 
 .item-boxes h4 {
@@ -634,7 +644,7 @@ button:focus {
 }
 
 .item-boxes:hover .icon {
-  background: #61D2B4;
+  background: #76CFA6;
 }
 
 .item-boxes:hover .icon i {
@@ -645,7 +655,7 @@ button:focus {
   6. Features Section Style
    ========================================================================== */
 #features {
-  background: url(../img/bg1.jpg) fixed no-repeat;
+  background: url(../img/mission.jpg) fixed no-repeat;
   background-size: cover;
   color: #fff;
   overflow: hidden;
@@ -675,7 +685,7 @@ button:focus {
 }
 
 #features .box-item .icon {
-  border: 1px solid #61D2B4;
+  border: 1px solid #76CFA6;
   text-align: center;
   float: left;
   -webkit-transition: all 0.2s linear;
@@ -685,7 +695,7 @@ button:focus {
 }
 
 #features .box-item .icon i {
-  color: #61D2B4;
+  color: #76CFA6;
   font-size: 24px;
   line-height: 60px;
   -webkit-transition: all 0.2s linear;
@@ -699,7 +709,7 @@ button:focus {
 }
 
 #features .box-item .text h4 {
-  color: #61D2B4;
+  color: #76CFA6;
   font-weight: 700;
   font-size: 16px;
   text-transform: uppercase;
@@ -712,7 +722,7 @@ button:focus {
 }
 
 #features .box-item:hover .icon {
-  background: #61D2B4;
+  background: #76CFA6;
 }
 
 #features .box-item:hover .icon i {
@@ -728,7 +738,7 @@ button:focus {
   7. Video promo Style
    ========================================================================== */
 .video-promo {
-  background: #61D2B4;
+  background: #76CFA6;
   color: #fff;
   overflow: hidden;
   position: relative;
@@ -741,7 +751,7 @@ button:focus {
 
 .video-promo .video-promo-content h2 {
   color: #fff;
-  font-size: 30px;
+  /* font-size: 30px; */
   text-transform: uppercase;
   margin-bottom: 30px;
 }
@@ -751,14 +761,14 @@ button:focus {
 }
 
 .video-promo .video-promo-content .video-popup {
-  width: 80px;
-  height: 80px;
+  width: 178px;
+  height: 178px;
   text-align: center;
   border: 3px solid #fff;
   color: #fff;
   border-radius: 50%;
   display: inline-block;
-  font-size: 30px;
+  font-size: 80px;
   -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
@@ -774,7 +784,7 @@ button:focus {
   height: 100%;
   top: 0px;
   left: 0px;
-  background: #61D2B4;
+  background: #76CFA6;
   opacity: 0.9;
   filter: alpha(opacity=90);
 }
@@ -800,8 +810,8 @@ button:focus {
 }
 
 .controls .active {
-  color: #61D2B4 !important;
-  border-color: #61D2B4;
+  color: #76CFA6 !important;
+  border-color: #76CFA6;
   background: transparent;
 }
 
@@ -854,7 +864,7 @@ button:focus {
   height: 48px;
   width: 48px;
   line-height: 48px;
-  color: #61D2B4;
+  color: #76CFA6;
   left: 50%;
   margin-left: -24px;
   margin-top: -24px;
@@ -869,12 +879,12 @@ button:focus {
   -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
-  border: 1px solid #61D2B4;
+  border: 1px solid #76CFA6;
   border-radius: 50%;
 }
 
 .overlay .item-icon:hover {
-  background: #61D2B4;
+  background: #76CFA6;
   color: #fff;
 }
 
@@ -917,7 +927,7 @@ button:focus {
   display: inline-block;
   font-size: 48px;
   font-weight: 400;
-  color: #61D2B4;
+  color: #76CFA6;
   margin-bottom: 20px;
 }
 
@@ -939,7 +949,7 @@ button:focus {
  10. Counter Section Style
  ========================================================================== */
 .counters {
-  background: url(../img/counter.jpg) fixed;
+  background: url(../img/standup.jpg) fixed;
   position: relative;
 }
 
@@ -967,6 +977,19 @@ button:focus {
   font-size: 20px;
   font-weight: 400;
   color: #fff;
+}
+
+/* ==========================================================================
+11. Trusted Section Style
+ ========================================================================== */
+
+
+#trusted {
+  background-color: #76CFA6;
+  background-size: cover;
+  color: #fff;
+  overflow: hidden;
+  position: relative;
 }
 
 /* ==========================================================================
@@ -1010,7 +1033,7 @@ button:focus {
 }
 
 .owl-theme .owl-controls .owl-page span {
-  background: #61D2B4;
+  background: #76CFA6;
 }
 
 .owl-theme .owl-controls {
@@ -1030,7 +1053,7 @@ button:focus {
   transition: 0.5s;
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
   border-radius: 0px;
-  background: #61D2B4;
+  background: #76CFA6;
   overflow: hidden;
 }
 
@@ -1075,7 +1098,7 @@ button:focus {
   text-align: center;
   width: 34px;
   margin: 2px;
-  color: #61D2B4;
+  color: #76CFA6;
   font-size: 14px;
   background: #fff;
   border-radius: 50px;
@@ -1145,7 +1168,7 @@ button:focus {
 }
 
 #blog .blog-item-text h3 a:hover {
-  color: #61D2B4;
+  color: #76CFA6;
 }
 
 #blog .blog-item-text p {
@@ -1171,7 +1194,7 @@ button:focus {
 }
 
 .meta-tags span a:hover {
-  color: #61D2B4;
+  color: #76CFA6;
 }
 
 /* ==========================================================================
@@ -1183,7 +1206,7 @@ button:focus {
 }
 
 .contact-us p span {
-  color: #61D2B4;
+  color: #76CFA6;
   padding-left: 10px;
 }
 
@@ -1210,7 +1233,7 @@ button:focus {
 .form-control:focus {
   box-shadow: none;
   color: #fff;
-  border-color: #61D2B4;
+  border-color: #76CFA6;
   background: transparent;
   outline: none;
 }
@@ -1253,7 +1276,7 @@ footer {
 }
 
 .footer-links li a:hover {
-  color: #61D2B4;
+  color: #76CFA6;
 }
 
 .copyright {
@@ -1270,5 +1293,5 @@ footer {
 }
 
 .copyright p a:hover {
-  color: #61D2B4;
+  color: #76CFA6;
 }
