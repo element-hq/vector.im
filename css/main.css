@@ -985,9 +985,9 @@ button:focus {
 
 
 #trusted {
-  background-color: #76CFA6;
+  background-color: #ffffff;
   background-size: cover;
-  color: #fff;
+  color: #333;
   overflow: hidden;
   position: relative;
 }
