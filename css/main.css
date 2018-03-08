@@ -34,7 +34,7 @@
 /* ==========================================================================
    1. IMPORT GOOGLE FONTS
    ========================================================================== */
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,700");
 /* ==========================================================================
    2. GENERAL
    ========================================================================== */
@@ -71,7 +71,7 @@ a {
 h1, h2, h3, h4, h5 {
   font-family: 'Open Sans', sans-serif;
   font-size: 40px;
-  font-weight: 700;
+  font-weight: 300;
   letter-spacing: 1px;
 }
 
@@ -116,7 +116,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   font-size: 42px;
   margin-top: 0;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 300;
   color: #333;
   position: relative;
 }
@@ -407,6 +407,7 @@ button:focus {
    ========================================================================== */
 #hero-area {
   background: url(../img/hero.jpg) fixed no-repeat;
+
   background-size: cover;
   color: #fff;
   overflow: hidden;
@@ -430,7 +431,7 @@ button:focus {
 #hero-area .contents h1 {
   color: #fff;
   font-size: 42px;
-  font-weight: 700;
+  font-weight: 300;
   margin-bottom: 25px;
 }
 
@@ -639,7 +640,7 @@ button:focus {
 
 .item-boxes h4 {
   font-size: 20px;
-  font-weight: 700;
+  font-weight: 300;
   margin-bottom: 10px;
 }
 
@@ -710,7 +711,7 @@ button:focus {
 
 #features .box-item .text h4 {
   color: #76CFA6;
-  font-weight: 700;
+  font-weight: 300;
   font-size: 16px;
   text-transform: uppercase;
   line-height: 22px;
@@ -792,9 +793,15 @@ button:focus {
 /* ==========================================================================
   8. Portfolio Section
    ========================================================================== */
+#portfolios  {
+  background-color: #F1F1F1;
+}
+
+
 #portfolios .mix {
   padding: 10px;
 }
+
 
 #portfolios .portfolio-item .shot-item {
   margin: 0px;
@@ -915,7 +922,7 @@ button:focus {
 
 .pricing-table .pricing-details h2 {
   font-size: 26px;
-  font-weight: 700;
+  font-weight: 300;
   color: #333;
   margin-bottom: 20px;
   text-transform: uppercase;
@@ -992,6 +999,10 @@ button:focus {
   position: relative;
 }
 
+
+
+
+
 /* ==========================================================================
 11. Testimonial Section Style
  ========================================================================== */
@@ -1016,7 +1027,7 @@ button:focus {
 
 .testimonial-item .testimonial-text h3 {
   font-size: 15px;
-  font-weight: 700;
+  font-weight: 300;
 }
 
 .testimonial-item .testimonial-text span {
@@ -1043,8 +1054,13 @@ button:focus {
 /* ==========================================================================
   12. Team Section
    ========================================================================== */
+.team {
+  background: url(../img/standup.jpg) fixed;
+}
+
 .single-team:hover .team-details {
   opacity: 1;
+
 }
 
 .single-team {
@@ -1079,7 +1095,7 @@ button:focus {
 .single-team .team-details .team-title {
   margin-bottom: 5px;
   font-size: 20px;
-  font-weight: 700;
+  font-weight: 300;
   color: #333;
 }
 
@@ -1159,7 +1175,7 @@ button:focus {
 #blog .blog-item-text h3 {
   line-height: 26px;
   font-size: 18px;
-  font-weight: 700;
+  font-weight: 300;
   margin-bottom: 10px;
 }
 
@@ -1209,6 +1225,11 @@ button:focus {
   color: #76CFA6;
   padding-left: 10px;
 }
+
+/* #contact {
+  background: url(../img/standup.jpg) fixed no-repeat;
+  color: #333;
+} */
 
 #contact {
   background: #343a40;
