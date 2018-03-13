@@ -44,7 +44,7 @@ function fetch_ios_build($stream) {
     $plistFileName = "vector-ios-$stream-integration$build-Info.plist";
     $plistPath = "cache/$plistFileName";
 
-    $iconFileName = "vector-ios-$stream-integration$build-icon-57x57.png";
+    $iconFileName = "vector-ios-$stream-integration$build-icon60x60@3x.png";
     $iconPath = "cache/$iconFileName";
 
     //$retinaIconFileName = "matrixConsole-$version-$bundleVersion-$build-icon-57x57.png";
@@ -59,7 +59,7 @@ function fetch_ios_build($stream) {
     }
 
     if (!file_exists($iconPath)) {
-        `unzip -p $ipaPath Payload/*.app/AppIcon57x57.png > $iconPath`;
+        `unzip -p $ipaPath Payload/*.app/AppIcon60x60@3x.png > $iconPath`;
     }
 
     $bundleVersion = trim(`python plistget.py $plistPath CFBundleVersion`);
