@@ -81,7 +81,7 @@ ul {
 }
 
 ul li {
-  list-style: none;
+  list-style: disc;
 }
 
 a:hover,
@@ -1277,6 +1277,21 @@ button:focus {
 .list-unstyled li {
   color: #d9534f;
 }
+/* ==========================================================================
+Privacy Style
+ ========================================================================== */
+.privacy h2 {
+   margin:0.5em 0em;
+ }
+.privacy h3 {
+  font-size: 30px;
+  margin:0.5em 0em;
+}
+.privacy ul {
+  margin-left: 50px;
+  margin-bottom:20px;
+}
+
 
 /* ==========================================================================
 15. Footer Style
