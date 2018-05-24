@@ -81,7 +81,7 @@ ul {
 }
 
 ul li {
-  list-style: disc;
+  list-style: none;
 }
 
 a:hover,
@@ -1290,6 +1290,10 @@ Privacy Style
 .privacy ul {
   margin-left: 50px;
   margin-bottom:20px;
+}
+
+.privacy ul li {
+  list-style: disc;
 }
 
 
