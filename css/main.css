@@ -1341,3 +1341,11 @@ footer {
 .copyright p a:hover {
   color: #76CFA6;
 }
+
+.modular-gradient {
+  background-image: linear-gradient(-135deg, #4E28D0 0%, #4472D5 49%, #00C8FF 100%);
+  background-size: 100% auto;
+  color: #fff;
+  margin-bottom: 0px !important;
+  border-radius: 0 !important; 
+}
