@@ -77,6 +77,10 @@
   line-height: 1.8em;
 }
 
+.hero__headline.hero__headline--projects {
+  margin-top: 100px;
+}
+
 .hero__headline--bold {
   font-size: 38px;
   line-height: 1.8em;
