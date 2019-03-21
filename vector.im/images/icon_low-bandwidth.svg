@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="247px" height="240px" viewBox="0 0 247 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
-    <title>low-bandwith</title>
+    <title>low-bandwith copy</title>
     <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="3.65472062%" y1="2.49959942%" x2="96.2931823%" y2="102.364692%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#FFFFFF" offset="46.3499764%"></stop>
-            <stop stop-color="#005450" stop-opacity="0.59842111" offset="100%"></stop>
-        </linearGradient>
-    </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard" transform="translate(-1599.000000, -6468.000000)">
-            <g id="Group-5-Copy-2" transform="translate(455.000000, 242.000000)">
+        <g id="Artboard" transform="translate(-1852.000000, -6468.000000)">
+            <g id="Group-5-Copy-3" transform="translate(708.000000, 242.000000)">
                 <g id="Stacked-Group-2" transform="translate(250.000000, 3404.000000)">
                     <g id="Group-7-Copy" transform="translate(0.000000, 2767.000000)">
-                        <g id="low-bandwith" transform="translate(894.000000, 55.000000)">
-                            <rect id="background" fill="url(#linearGradient-1)" x="2.98427949e-13" y="0" width="246.233766" height="240" rx="15"></rect>
+                        <g id="low-bandwith-copy" transform="translate(894.000000, 55.000000)">
+                            <rect id="background" fill="#FFFFFF" x="2.98427949e-13" y="0" width="246.233766" height="240" rx="15"></rect>
                             <g id="bad-wifi" transform="translate(166.000000, 174.000000)" fill="#005450" fill-rule="nonzero">
                                 <path d="M32,45 C28.8865882,45 26.3529412,42.47625 26.3529412,39.375 C26.3529412,36.27375 28.8865882,33.75 32,33.75 C35.1134118,33.75 37.6470588,36.27375 37.6470588,39.375 C37.6470588,42.47625 35.1134118,45 32,45 Z M32,37.5 C30.9609412,37.5 30.1176471,38.34 30.1176471,39.375 C30.1176471,40.41 30.9609412,41.25 32,41.25 C33.0390588,41.25 33.8823529,40.41 33.8823529,39.375 C33.8823529,38.34 33.0390588,37.5 32,37.5 Z" id="Shape"></path>
                                 <path d="M44.9769412,33.63 C44.3331765,33.63 43.7044706,33.3 43.3543529,32.7075 C42.6465882,31.515 41.7581176,30.44625 40.7152941,29.5275 C39.936,28.84125 39.8607059,27.65625 40.5496471,26.88 C41.2385882,26.10375 42.4282353,26.02875 43.2075294,26.715 C44.5477647,27.8925 45.6884706,29.26875 46.5957647,30.79875 C47.1265882,31.69125 46.8291765,32.83875 45.9331765,33.3675 C45.632,33.54375 45.3044706,33.63 44.9769412,33.63 Z" id="Path"></path>
