@@ -43,8 +43,8 @@
 }
 
 .hero.hero--numbers {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 100px;
+  padding-bottom: 100px;
   background-color: hsla(177.14285714285717, 100.00%, 16.47%, 1.00);
   color: #fff;
 }
@@ -58,13 +58,16 @@
 }
 
 .hero.hero--careers {
-  padding-top: 220px;
-  padding-bottom: 220px;
-  background-image: url('../images/team_office_panorama.jpg');
-  background-position: 50% 50%;
+  height: 320px;
+  background-image: url('../images/team_cropped.jpg');
+  background-position: 50% 15%;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: scroll;
+}
+
+.hero.hero--collage {
+  padding: 0px;
 }
 
 .hero__headline {
@@ -78,7 +81,7 @@
 }
 
 .hero__headline.hero__headline--projects {
-  margin-top: 100px;
+  margin-top: 140px;
 }
 
 .hero__headline--bold {
@@ -346,8 +349,7 @@
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  margin-top: 140px;
-  margin-bottom: 40px;
+  margin-top: 60px;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
   -webkit-flex-direction: row;
@@ -391,7 +393,7 @@
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  margin-top: 140px;
+  margin-top: 60px;
   margin-bottom: 40px;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
@@ -623,6 +625,48 @@
   margin-left: 10px;
 }
 
+.photos {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 320px;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.photos__background {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+
+.photos__background.photos__background--matthew {
+  background-image: url('../images/team_matthew.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.photos__background.photos__background--team {
+  background-image: url('../images/team_office.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.photos__background.photos__background--amandine {
+  background-image: url('../images/team_amandine.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
 @media (max-width: 991px) {
   .container {
     margin-right: 40px;
@@ -631,6 +675,10 @@
   .hero {
     padding-right: 60px;
     padding-left: 60px;
+  }
+  .hero.hero--collage {
+    padding-top: 140px;
+    background-image: none;
   }
   .case-parent {
     -webkit-box-orient: vertical;
@@ -729,6 +777,15 @@
   .trusted {
     margin-top: 20px;
   }
+  .photos__background.photos__background--matthew {
+    background-position: 50% 50%;
+  }
+  .photos__background.photos__background--team {
+    background-position: 50% 50%;
+  }
+  .photos__background.photos__background--amandine {
+    background-position: 50% 50%;
+  }
 }
 
 @media (max-width: 767px) {
@@ -739,6 +796,13 @@
   .hero {
     padding-right: 20px;
     padding-left: 20px;
+  }
+  .hero.hero--numbers {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .hero.hero--careers {
+    background-position: 0% 0%;
   }
   .product {
     padding-right: 0px;
@@ -805,12 +869,30 @@
     margin-top: 20px;
     margin-bottom: 20px;
   }
+  .photos {
+    height: 960px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .photos__background.photos__background--matthew {
+    background-position: 50% 50%;
+  }
+  .photos__background.photos__background--team {
+    background-position: 50% 0%;
+  }
 }
 
 @media (max-width: 479px) {
   .container {
     margin-right: 0px;
     margin-left: 0px;
+  }
+  .hero.hero--careers {
+    height: 280px;
+    background-position: 10% 50%;
   }
   .hero__headline--bold {
     font-size: 28px;
@@ -826,6 +908,12 @@
   }
   .privacy__subline {
     font-size: 18px;
+  }
+  .photos__background.photos__background--matthew {
+    background-position: 50% 50%;
+  }
+  .photos__background.photos__background--amandine {
+    background-position: 50% 50%;
   }
 }
 
