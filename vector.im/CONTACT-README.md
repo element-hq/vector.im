@@ -6,7 +6,7 @@ to actually send mail.
 
 ## Setup
 
-Copy `sample.config.php` to `config.php` and change values as necessary.
+Edit `config.php` and change values as necessary.
 
 Email headers, using variable names from the config file, end up in the form of:
 
