@@ -61,8 +61,4 @@ if (!$success) {
     echo $errorMessage;
     die();
 }
-
-// Success
-http_response_code(200);
-die('success');
 ?>
