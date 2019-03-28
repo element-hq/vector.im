@@ -11,10 +11,10 @@ Copy `sample.config.php` to `config.php` and change values as necessary.
 Email headers, using variable names from the config file, end up in the form of:
 
 ```
-Sender: $to_email
+Sender: $forwarding_email
 From: John Doe via vector.im <john@doe.com>
 Reply-To: John Doe <john@doe.com>
-To: to_name <$to_email>
+To: $forwarding_name <$forwarding_email>
 ```
 
 Ensure you have `sendmail` set up correctly on your server and that PHP is able to use it.
