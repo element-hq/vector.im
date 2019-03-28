@@ -24,14 +24,15 @@ if (!isset($config['forwarding_name'])
     die();
 }
 
+
 // Ensure all required fields are sent
 if (!isset($_POST['name'])
-    or !isset($_POST['email'])
-    or !isset($_POST['enquiry'])) {
-        http_response_code(400);
-        echo 'Required POST fields: name, email, enquiry';
-        die();
-    }
+        or !isset($_POST['email'])
+        or !isset($_POST['enquiry'])) {
+    http_response_code(400);
+    echo 'Required POST fields: name, email, enquiry';
+    die("name: " . $_POST['name'] . ", email: " . $_POST['email'] . ", enquiry: " . $_POST['enquiry']);
+}
 
 $to_name    = $config['forwarding_name'];
 $to_email   = $config['forwarding_email'];
