@@ -18,7 +18,7 @@
 $config = include('config.php');
 
 if (!isset($config['forwarding_name']
-    or !isset($config['forwarding_email'])) {
+    or !isset($config['forwarding_email']))) {
     http_response_code(500);
     echo 'Required config fields: forwarding_name, forwarding_email';
     die();
