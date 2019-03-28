@@ -61,4 +61,10 @@ if (!$success) {
     echo $errorMessage;
     die();
 }
+
+// Redirect user to success page
+if (isset($config['success_redirect'])) {
+    $new_url = $config['success_redirect'];
+    header('Location: ' . $new_url);
+}
 ?>
