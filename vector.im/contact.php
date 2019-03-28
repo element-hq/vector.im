@@ -57,8 +57,8 @@ $subject = 'Contact form submission from ' . $from_name . ' (' . $from_email . '
 // Send the email
 $success = mail($to_email, $subject, $enquiry, $headers);
 if (!$success) {
-    $errorMessage = error_get_last()['message'];
-    echo $errorMessage;
+    $error_message = error_get_last()['message'];
+    echo $error_message;
     die();
 }
 
