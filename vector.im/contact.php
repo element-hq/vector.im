@@ -37,7 +37,7 @@ if (!isset($_POST['name'])
 $to_name    = $config['forwarding_name'];
 $to_email   = $config['forwarding_email'];
 $from_email = $_POST['email'];
-$name       = $_POST['name'];
+$from_name  = $_POST['name'];
 $enquiry    = $_POST['enquiry'];
 
 // Set up email headers in the form of:
@@ -45,14 +45,14 @@ $enquiry    = $_POST['enquiry'];
 // From: John Doe via vector.im <john@doe.com>
 // Reply-To: John Doe <john@doe.com>
 // To: CoolCorp Contact <contact@example.com>
-$headers = 'Sender: ' . $to_email . '\r\n' .
-           'From: ' . $to_name . ' via vector.im ' . '<' . $from_email . '>\r\n' .
-           'Reply-To: ' . $to_name . '<' . $from_email . '>\r\n' .
-           'To: ' . $to_name . '<' . $to_email . '>';
+$headers = "Sender: " . $to_email . "\r\n" .
+           "From: " . $from_name . " via vector.im " . "<" . $from_email . ">\r\n" .
+           "Reply-To: " . $from_name . " <" . $from_email . ">\r\n" .
+           "To: " . $to_name . " <" . $to_email . ">";
 
 // Subject is in the form of:
 // Contact form submission from Andrew M (andrewm@matrix.org)
-$subject = 'Contact form submission from ' . $to_name . ' (' . $from_email . ')';
+$subject = 'Contact form submission from ' . $from_name . ' (' . $from_email . ')';
 
 // Send the email
 $success = mail($to_email, $subject, $enquiry, $headers);
