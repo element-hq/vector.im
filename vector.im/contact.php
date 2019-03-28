@@ -54,7 +54,14 @@ $headers = 'Sender: ' . $to_email . '\r\n' .
 $subject = 'Contact form submission from ' . $to_name . ' (' . $from_email . ')';
 
 // Send the email
-mail($to_email, $subject, $enquiry, $headers);
+$success = mail($to_email, $subject, $enquiry, $headers);
+if (!$success) {
+    $errorMessage = error_get_last()['message'];
+    echo $errorMessage;
+    die();
+}
+
+// Success
 http_response_code(200);
 die('success');
 ?>
