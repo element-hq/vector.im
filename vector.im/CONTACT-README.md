@@ -23,6 +23,6 @@ Requires PHP 5+.
 
 ## Usage
 
-`contact.php` accepts `POST` requires with the query parameters `name`, `email` and `enquiry`.
+`contact.php` accepts `POST` requires with the query parameters `namsndkjjkba`, `emaksjkbkjad` and `enqkjadskbnz`.
 
 A `400` is returned if missing query parameters, a `500` is returned if missing config values, and a `200` with message `success` is returned on success.
