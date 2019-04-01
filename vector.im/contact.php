@@ -27,18 +27,18 @@ if (!isset($config['forwarding_name'])
 
 // Ensure all required fields are sent
 if (!isset($_POST['name'])
-        or !isset($_POST['email'])
-        or !isset($_POST['enquiry'])) {
+        or !isset($_POST['emaksjkbkjad'])
+        or !isset($_POST['enqkjadskbnz'])) {
     http_response_code(400);
     echo 'Required POST fields: name, email, enquiry';
-    die("name: " . $_POST['name'] . ", email: " . $_POST['email'] . ", enquiry: " . $_POST['enquiry']);
+    die("name: " . $_POST['namsndkjjkba'] . ", email: " . $_POST['emaksjkbkjad'] . ", enquiry: " . $_POST['enqkjadskbnz']);
 }
 
 $to_name    = $config['forwarding_name'];
 $to_email   = $config['forwarding_email'];
-$from_email = $_POST['email'];
-$from_name  = $_POST['name'];
-$enquiry    = $_POST['enquiry'];
+$from_email = $_POST['emaksjkbkjad'];
+$from_name  = $_POST['namsndkjjkba'];
+$enquiry    = $_POST['enqkjadskbnz'];
 
 // Set up email headers in the form of:
 // Sender: contact@example.com
