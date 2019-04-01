@@ -26,7 +26,7 @@ if (!isset($config['forwarding_name'])
 
 
 // Ensure all required fields are sent
-if (!isset($_POST['name'])
+if (!isset($_POST['namsndkjjkba'])
         or !isset($_POST['emaksjkbkjad'])
         or !isset($_POST['enqkjadskbnz'])) {
     http_response_code(400);
