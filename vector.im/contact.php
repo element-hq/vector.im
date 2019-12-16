@@ -51,8 +51,8 @@ $headers = "Sender: " . $to_email . "\r\n" .
            "To: " . $to_name . " <" . $to_email . ">";
 
 // Subject is in the form of:
-// Contact form submission from Andrew M (andrewm@matrix.org)
-$subject = 'Contact form submission from ' . $from_name . ' (' . $from_email . ')';
+// Webform: Andrew M (andrewm@matrix.org)
+$subject = 'Webform: ' . $from_name . ' (' . $from_email . ')';
 
 // Send the email
 $success = mail($to_email, $subject, $enquiry, $headers);
