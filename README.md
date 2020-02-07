@@ -5,6 +5,7 @@ To report issues for specific products and services, please use their correspond
 
 - **Riot Web:** [https://github.com/vector-im/riot-web](https://github.com/vector-im/riot-web)
 - **Riot Android:** [https://github.com/vector-im/riot-android](https://github.com/vector-im/riot-android)
+- **RiotX Android:** [https://github.com/vector-im/riotX-android](https://github.com/vector-im/riotX-android)
 - **Riot iOS:** [https://github.com/vector-im/riot-ios](https://github.com/vector-im/riot-ios)
 - **Synapse:** [https://github.com/matrix-org/synapse](https://github.com/matrix-org/synapse)
 
