@@ -26,7 +26,14 @@
   <div data-collapse="medium" data-animation="default" data-duration="400" class="nav w-nav">
     <div data-w-id="88e69a71-92f2-2891-771b-3fe8bf0d5874" class="nav__background"></div>
     <div class="container w-container"><a href="/#home" class="w-nav-brand"><img src="images/new-vector-logo.svg" width="200" alt="New Vector logo" class="nav__logo"></a>
-      <nav role="navigation" class="nav-menu w-nav-menu"><a href="/#case-studies" class="nav__link w-nav-link">Case Studies</a><a href="/#products-services" class="nav__link w-nav-link">Products &amp; Services</a><a href="https://blog.vector.im" target="_blank" class="nav__link w-nav-link">News</a><a href="/careers" class="nav__link w-nav-link">Careers</a><a href="/contact-us" class="nav__link w-nav-link">Contact Us</a></nav>
+      <nav role="navigation" class="nav-menu w-nav-menu">
+        <div data-hover="1" data-delay="0" class="w-dropdown">
+          <div class="w-dropdown-toggle">
+            <div class="nav__icon w-icon-dropdown-toggle"></div>
+            <div class="nav__link">Use Cases</div>
+          </div>
+          <nav class="nav__dropdown__list w-dropdown-list"><a href="/#customers" class="nav__link nav__link--dropdown w-dropdown-link">Customers</a><a href="/#sectors" class="nav__link nav__link--dropdown w-dropdown-link">Sectors</a><a href="/#deployments" class="nav__link nav__link--dropdown w-dropdown-link">Deployments</a></nav>
+        </div><a href="/#products-services" class="nav__link w-nav-link">Products &amp; Services</a><a href="https://blog.vector.im" target="_blank" class="nav__link w-nav-link">Blog</a><a href="/careers" class="nav__link w-nav-link">Careers</a><a href="/contact-us" class="nav__link w-nav-link">Contact Us</a></nav>
       <div class="menu-button w-nav-button">
         <div class="icon w-icon-nav-menu"></div>
       </div>
@@ -38,8 +45,6 @@
     <h2 class="hero__subline">We enable governments, businesses and individuals to run their own secure communication infrastructure, while interconnecting via the global Matrix network.</h2>
     <div class="btn-parent"><a href="/contact-us" class="btn w-button">Get in touch</a></div>
   </div>
-  <div id="case-studies" data-w-id="f207265e-9e6b-11b9-05e1-9f3a5fa27103" class="hero">
-    <h2 class="hero__headline hero__headline--case"><strong class="hero__headline--bold">Case Studies</strong></h2>
   <div class="hero hero--blog">
     <div class="blog-parent">
       <div class="blog">
@@ -50,6 +55,9 @@
       </div>
     </div>
   </div>
+  <div id="case-studies" data-w-id="f207265e-9e6b-11b9-05e1-9f3a5fa27103" class="hero hero--user-cases">
+    <h2 class="hero__headline hero__headline--case"><strong class="hero__headline--bold">Use Cases</strong></h2>
+    <h3 id="customers" class="hero__headline hero__headline--section"><strong>Customers</strong></h3>
     <div class="case-parent">
       <div class="case">
         <h3 class="case__h">DINUM</h3><a href="https://www.numerique.gouv.fr/dinum/" target="_blank" class="w-inline-block"><img src="images/dinum.png" width="141" alt="DINSIC logo" class="case__i"></a>
@@ -78,6 +86,7 @@
         <p class="product__p"><a href="for-crisis-response.html">Learn more</a></p>
       </div>
     </div>
+    <h3 id="deployments" class="hero__headline hero__headline--section"><strong>Deployments</strong></h3>
     <div class="case-parent">
       <div class="case">
         <h3 class="case__h">Modular</h3><a href="https://modular.im" target="_blank" class="w-inline-block"><img src="images/modular.svg" height="32" alt="Modular logo" class="case__i"></a>
