@@ -3,6 +3,9 @@ perl -pi -w -e 's#href="index.html"#href="/"#g;' *.html &&
 perl -pi -w -e 's#href="careers.html"#href="/careers"#g;' *.html &&
 perl -pi -w -e 's#href="contact-us.html"#href="/contact-us"#g;' *.html &&
 perl -pi -w -e 's#href="privacy.html"#href="/privacy"#g;' *.html &&
+perl -pi -w -e 's#href="for-education.html"#href="/for-education"#g;' *.html &&
+perl -pi -w -e 's#href="for-healthcare.html"#href="/for-education"#g;' *.html &&
+perl -pi -w -e 's#href="for-crisis-response.html"#href="/for-education"#g;' *.html &&
 sed -i '' '/Last Published/d' *.html &&
 sed -i '' '/This site was created in Webflow/d' *.html &&
 echo "Ancient chinese proverb."
