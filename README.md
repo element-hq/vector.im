@@ -11,3 +11,8 @@ To report issues for specific products and services, please use their correspond
 
 Or browse the [vector-im](https://github.com/vector-im) and [matrix-org](https://github.com/matrix-org) organisations on GitHub to browse all.
 
+
+
+## To test locally
+
+Run `npm i express` then `node runner.js`
