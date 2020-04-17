@@ -145,6 +145,8 @@ a {
 }
 
 .hero__headline.hero__headline--blog {
+  margin-top: 10px;
+  margin-bottom: 10px;
   line-height: 1.8em;
   font-weight: 300;
 }
@@ -173,8 +175,17 @@ a {
   font-size: 16px;
 }
 
+.btn.btn-blog {
+  min-width: 180px;
+  text-align: center;
+}
+
 .btn-parent {
   margin-top: 40px;
+}
+
+.btn-parent.btn-parent--blog {
+  margin-top: 0px;
 }
 
 .case-parent {
@@ -994,6 +1005,9 @@ a {
   .hero {
     padding-right: 60px;
     padding-left: 60px;
+  }
+  .btn-parent.btn-parent--blog {
+    margin-top: 40px;
   }
   .case-parent {
     -webkit-box-orient: vertical;
