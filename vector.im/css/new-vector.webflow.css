@@ -707,8 +707,8 @@ a {
 }
 
 .photos__background.photos__background--team {
-  background-image: url('../images/team_office.jpg');
-  background-position: 0px 0px;
+  background-image: url('../images/team_italy.jpg');
+  background-position: 50% 100%;
   background-size: cover;
 }
 
@@ -1108,7 +1108,7 @@ a {
     background-position: 50% 50%;
   }
   .photos__background.photos__background--team {
-    background-position: 50% 50%;
+    background-position: 25% 50%;
   }
   .photos__background.photos__background--amandine {
     background-position: 50% 50%;
@@ -1259,7 +1259,7 @@ a {
     background-position: 50% 50%;
   }
   .photos__background.photos__background--team {
-    background-position: 50% 0%;
+    background-position: 50% 50%;
   }
   .footer__i--social {
     margin-top: 20px;
@@ -1340,6 +1340,9 @@ a {
   }
   .photos__background.photos__background--matthew {
     background-position: 50% 50%;
+  }
+  .photos__background.photos__background--team {
+    background-position: 30% 50%;
   }
   .photos__background.photos__background--amandine {
     background-position: 50% 50%;
