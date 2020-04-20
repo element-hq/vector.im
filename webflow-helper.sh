@@ -10,8 +10,8 @@ perl -pi -w -e 's#href="careers.html"#href="/careers"#g;' -- *.html
 perl -pi -w -e 's#href="contact-us.html"#href="/contact-us"#g;' -- *.html
 perl -pi -w -e 's#href="privacy.html"#href="/privacy"#g;' -- *.html
 perl -pi -w -e 's#href="for-education.html"#href="/for-education"#g;' -- *.html
-perl -pi -w -e 's#href="for-healthcare.html"#href="/for-education"#g;' -- *.html
-perl -pi -w -e 's#href="for-crisis-response.html"#href="/for-education"#g;' -- *.html
+perl -pi -w -e 's#href="for-healthcare.html"#href="/for-healthcare"#g;' -- *.html
+perl -pi -w -e 's#href="for-crisis-response.html"#href="/for-crisis-response"#g;' -- *.html
 
 # remove webflow annotations
 sed -i '/Last Published/d' -- *.html
