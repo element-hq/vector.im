@@ -5,4 +5,5 @@ perl -pi -w -e 's#href="contact-us.html"#href="/contact-us"#g;' *.html &&
 perl -pi -w -e 's#href="privacy.html"#href="/privacy"#g;' *.html &&
 sed -i '' '/Last Published/d' *.html &&
 sed -i '' '/This site was created in Webflow/d' *.html &&
+cp ../sitemap-top.xml . &&
 echo "Ancient chinese proverb."
